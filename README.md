@@ -23,8 +23,8 @@ Actualmente trabajo en proyectos relacionados con:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianPardo99&count_private=true&show_icons=true&theme=darcula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianPardo99&theme=darcula&layout=compact&hide=roff,css,html,javascript,tcl&langs_count=15" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d3vko&count_private=true&show_icons=true&theme=darcula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vko&theme=darcula&layout=compact&hide=roff,css,html,javascript,tcl&langs_count=15" />
 </p>
 
 ---
@@ -33,9 +33,9 @@ Actualmente trabajo en proyectos relacionados con:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrianPardo99/AdrianPardo99/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrianPardo99/AdrianPardo99/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdrianPardo99/AdrianPardo99/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/d3vko/d3vko/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/d3vko/d3vko/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/d3vko/d3vko/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
